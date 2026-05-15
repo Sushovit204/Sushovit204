@@ -18,8 +18,7 @@ Backend developer with expertise in designing and implementing **scalable RESTfu
 
 - 🌍 Based in **Kathmandu, Nepal**
 - 💼 Currently working as **Backend Developer at PlantSat**
-- 🚀 Passionate about **system design, automation, and AI-powered workflows**
-- 🌐 Portfolio: [www.sushovit.com.np](https://www.sushovit.com.np)
+- 🚀 Passionate about **building smooth, secure and scalable backend systems** —
 
 ---
 
@@ -59,26 +58,6 @@ Backend developer with expertise in designing and implementing **scalable RESTfu
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-
----
-
-## 💼 Work Experience
-
-### 🌱 PlantSat — Backend Developer *(Apr 2025 – Present)*
-- Built scalable APIs using **Django** and **FastAPI**
-- Dockerized applications and set up **CI/CD pipelines** with GitHub Actions
-- Used **Celery + Redis** for task scheduling and message brokering
-- Monitored production environments and resolved runtime issues
-
-### 🤖 Yirifi.ai — Backend Developer *(Nov 2024 – Mar 2025)*
-- Developed APIs and wrote thorough **unit & integration tests**
-- Automated workflows using **AI and n8n**, boosting operational efficiency
-- Worked with **BabelNet** for data extraction and structured storage
-
-### 🏢 KSW TechZone — Backend Django Developer *(Sep 2023 – Dec 2023)*
-- Designed and built **RESTful APIs** with third-party service integrations
-- Participated in code reviews to maintain quality standards
-- Implemented scalable **database solutions** for entry-level applications
 
 ---
 
