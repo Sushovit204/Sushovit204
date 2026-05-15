@@ -1,16 +1,122 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sushovit Shah 👋</h1>
 
-<!--
-**Sushovit204/Sushovit204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.sushovit.com.np" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sushovit-shah-7382251a9" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/sushovit204" target="_blank">🐙 GitHub</a> •
+  <a href="mailto:shahsushovit434@gmail.com">📧 Email</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer;API+Designer+%26+System+Architect;Django+%7C+FastAPI+%7C+Python+%7C+Go;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+Backend developer with expertise in designing and implementing **scalable RESTful APIs**. Experienced in creating and optimizing APIs, managing databases, ensuring seamless system performance, and enhancing backend functionalities. I enjoy solving complex problems and delivering high-quality code.
+
+- 🌍 Based in **Kathmandu, Nepal**
+- 💼 Currently working as **Backend Developer at PlantSat**
+- 🚀 Passionate about **system design, automation, and AI-powered workflows**
+- 🌐 Portfolio: [www.sushovit.com.np](https://www.sushovit.com.np)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Testing & Documentation**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**Project Management**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### 🌱 PlantSat — Backend Developer *(Apr 2025 – Present)*
+- Built scalable APIs using **Django** and **FastAPI**
+- Dockerized applications and set up **CI/CD pipelines** with GitHub Actions
+- Used **Celery + Redis** for task scheduling and message brokering
+- Monitored production environments and resolved runtime issues
+
+### 🤖 Yirifi.ai — Backend Developer *(Nov 2024 – Mar 2025)*
+- Developed APIs and wrote thorough **unit & integration tests**
+- Automated workflows using **AI and n8n**, boosting operational efficiency
+- Worked with **BabelNet** for data extraction and structured storage
+
+### 🏢 KSW TechZone — Backend Django Developer *(Sep 2023 – Dec 2023)*
+- Designed and built **RESTful APIs** with third-party service integrations
+- Participated in code reviews to maintain quality standards
+- Implemented scalable **database solutions** for entry-level applications
+
+---
+
+## 🚀 Projects
+
+### 📚 [Library Management System](https://github.com/Sushovit204/Library_management_system)
+A system where users can sign up and borrow books.
+> **Tech:** FastAPI · PostgreSQL · Git · Swagger
+
+### 🔐 [User Authentication with JWT](https://github.com/Sushovit204/drf_authentication)
+User registration and authentication using JSON Web Tokens.
+> **Tech:** Django · PostgreSQL · Git
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushovit204&show_icons=true&theme=tokyonight&hide_border=true" alt="Sushovit's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushovit204&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushovit204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.sushovit.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sushovit-shah-7382251a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shahsushovit434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sushovit204"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushovit204&color=00b4d8&style=flat-square" alt="Profile Views" />
+</p>
