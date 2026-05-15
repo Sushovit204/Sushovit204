@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Sushovit Shah 👋</h1>
 
 <p align="center">
-  <a href="https://www.sushovit.com.np" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sushovit-shah-7382251a9" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/sushovit204" target="_blank">🐙 GitHub</a> •
+  <a href="https://www.sushovit.com.np">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sushovit-shah-7382251a9">💼 LinkedIn</a> •
   <a href="mailto:shahsushovit434@gmail.com">📧 Email</a>
 </p>
 
@@ -83,18 +82,6 @@ Backend developer with expertise in designing and implementing **scalable RESTfu
 
 ---
 
-## 🚀 Projects
-
-### 📚 [Library Management System](https://github.com/Sushovit204/Library_management_system)
-A system where users can sign up and borrow books.
-> **Tech:** FastAPI · PostgreSQL · Git · Swagger
-
-### 🔐 [User Authentication with JWT](https://github.com/Sushovit204/drf_authentication)
-User registration and authentication using JSON Web Tokens.
-> **Tech:** Django · PostgreSQL · Git
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -114,7 +101,6 @@ User registration and authentication using JSON Web Tokens.
   <a href="https://www.sushovit.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sushovit-shah-7382251a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shahsushovit434@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sushovit204"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
