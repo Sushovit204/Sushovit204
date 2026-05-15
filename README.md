@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-Backend developer with expertise in designing and implementing **scalable RESTful APIs**. Experienced in creating and optimizing APIs, managing databases, ensuring seamless system performance, and enhancing backend functionalities. I enjoy solving complex problems and delivering high-quality code.
+Backend developer with a strong focus on designing and implementing **scalable RESTful APIs**. Experienced in creating and optimizing APIs, managing databases, ensuring seamless system performance, and enhancing backend functionalities.
 
 - 🌍 Based in **Kathmandu, Nepal**
 - 💼 Currently working as **Backend Developer at PlantSat**
